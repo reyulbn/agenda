@@ -1,6 +1,6 @@
 # agenda - proyecto PHP
 
-Proyecto en PHP realizado en la asignatura "Desarrollo Web en Entorno Servidor (DWES)"<br>
+Proyecto en PHP realizado en el módulo Desarrollo Web en Entorno Servidor (DWES)<br>
 del Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 
 Base de datos lanzada en XAMPP:
